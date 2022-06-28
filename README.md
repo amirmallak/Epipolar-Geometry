@@ -1,2 +1,2 @@
 # Epipolar-Geometry
-Drawing Epipolar lines on images taken by two cameras
+Drawing Epipolar lines on images which were taken by two cameras
